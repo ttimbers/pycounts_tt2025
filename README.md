@@ -1,5 +1,7 @@
 # pycounts_tt2025
 
+[![codecov](https://codecov.io/gh/ttimbers/pycounts_tt2025/graph/badge.svg?token=30K308ORPH)](https://codecov.io/gh/ttimbers/pycounts_tt2025)
+
 Calculate word counts in a text file!
 
 Author: Tiffany Timbers 
