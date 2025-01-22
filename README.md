@@ -2,7 +2,8 @@
 
 Calculate word counts in a text file!
 
-Author: Tiffany Timbers
+Author: Tiffany Timbers 
+Year: 2025
 
 ## Installation
 
